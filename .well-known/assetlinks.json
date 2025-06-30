@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.krishicentral.kk_trade",
+      "sha256_cert_fingerprints":
+        ["58:E8:7C:9E:6A:7F:C0:16:9C:38:BD:9E:17:A0:8E:69:4E:DE:86:05:33:4F:1F:3E:32:67:C1:42:DC:D1:6B:DF"]
+    }
+  }
+]
